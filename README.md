@@ -1,5 +1,4 @@
 # hello-worlld
-a repository
 
 Hi Anyone!
 
